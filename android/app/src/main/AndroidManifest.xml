@@ -2,7 +2,7 @@
     package="com.example.googlemaps">
    <application
         <meta-data android:name="com.google.android.geo.API_KEY"
-               android:value="YOUR KEY HERE"/>
+               android:value="AIzaSyBqbSrUAVOzB8XxWLOS9nxADhSJszNlEkA"/>
         android:label="googlemaps"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
